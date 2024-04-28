@@ -1,1 +1,2 @@
-# Bag-Boutique-Web
+# Bag Boutique Web
+This project is a school project.
